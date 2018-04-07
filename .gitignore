@@ -8,3 +8,7 @@ Yahoo/Webscope_L6-1/FullOct2007.xml.part1
 Yahoo/Webscope_L31/dataset/batch1.csv
 Yahoo/Webscope_L31/dataset/batch2.csv
 Reddit/all_submissions.csv
+*.xml
+*.7z
+*checkpoint.ipynb
+*.db-journal
