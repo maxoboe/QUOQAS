@@ -12,3 +12,5 @@ Reddit/all_submissions.csv
 *.7z
 *checkpoint.ipynb
 *.db-journal
+StackOverflow/SO.db
+*.db
