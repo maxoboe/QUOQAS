@@ -14,3 +14,4 @@ Reddit/all_submissions.csv
 *.db-journal
 StackOverflow/SO.db
 *.db
+*.p
