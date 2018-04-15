@@ -15,3 +15,5 @@ Reddit/all_submissions.csv
 StackOverflow/SO.db
 *.db
 *.p
+*.doc2vec
+*.zip
