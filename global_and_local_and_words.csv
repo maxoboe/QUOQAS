@@ -1,6 +1,0 @@
-Test Name,Success Rate,false +,false -
-combined_train_test.p,0.40005405405405403,21851,347
-r_train_so_test.p,1.0,0,0
-so_train_r_test.p,1.0,0,0
-so_alone.p,0.3186111111111111,11512,753
-reddit_alone.p,0.3960952380952381,8963,16401
