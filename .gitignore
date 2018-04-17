@@ -17,3 +17,4 @@ StackOverflow/SO.db
 *.p
 *.doc2vec
 *.zip
+*.npy
